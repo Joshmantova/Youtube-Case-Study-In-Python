@@ -26,7 +26,7 @@
 
 # Associations found:
 
-![](images/Screen Shot 2019-12-06 at 3.19.43 PM.png)
+![](images/image1.png)
 
 This will become the README documenting your results.  
 
