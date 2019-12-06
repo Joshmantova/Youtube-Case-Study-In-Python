@@ -24,6 +24,10 @@
 
 #### Description was missing 19478 values. Nothing was done for the missing values because description feature was not used
 
+# Associations found:
+
+![](images/Screen Shot 2019-12-06 at 3.19.43 PM.png)
+
 This will become the README documenting your results.  
 
 A description of the case study can be found [here.](case_study_description.md)
