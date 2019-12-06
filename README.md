@@ -1,5 +1,7 @@
 ## Pandas-EDA-Case-Study
 
+# The goal of this project was to explore the dataset
+
 # Describe the data
 
 ## What features did you have to work with?
