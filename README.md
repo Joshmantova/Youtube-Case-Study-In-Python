@@ -27,16 +27,6 @@ ratings_disabled | Boolean
 video_error_or_removed | Boolean
 description | Text
 
-
-###### video_id (text)\t\t\t\t\ttrending_date (text)
-###### title (text)\t\t\t\t\tchannel_title (text)
-###### category_id (categorical)\t\t\t\t\tpublish_time (text)
-###### tags (text)\t\t\t\t\tviews (numerical)
-###### likes (numerical)\t\t\t\t\tdislikes (numerical)
-###### comment_count (numerical)\t\t\tthumbnail_link (string)
-###### comments_disabled (bool)\t\t\t\tratings_disabled (bool)
-###### video_error_or_removed (bool)\tdescription (text)
-
 # Missing data:
 
 #### Description was missing 19478 values. No actions to resolve missing values were taken because the description feature was not used in the analyses.
