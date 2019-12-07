@@ -7,6 +7,27 @@
 ### We had data from 10 regions including the US, Russia, Mexico, and seven more. Most of the following analyses were conducted on an overall dataset representing the combination of all included regions. Individual datasets were used for analyses on specific regions.
 
 ## Features included in dataset:
+
+Feature Name | Feature Type
+------------ | -------------
+video_id | Text
+trending_date | Text
+title | Text
+channel_title | Text
+category_id | Categorical
+publish_time | Text
+tags | Text
+views | Numerical
+likes | Numerical
+dislikes | Numerical
+comment_count | Numerical
+thumbnail_link | Text
+comments_distabled | Boolean
+ratings_disabled | Boolean
+video_error_or_removed | Boolean
+description | Text
+
+
 ###### video_id (text)\t\t\t\t\ttrending_date (text)
 ###### title (text)\t\t\t\t\tchannel_title (text)
 ###### category_id (categorical)\t\t\t\t\tpublish_time (text)
