@@ -4,7 +4,7 @@
 
 # Describing the data
 
-### We had data from 10 regions including the US, Russia, Mexico, and seven more. Most of the following analyses were conducted on an overall dataset representing the combination of all included regions. Individual datasets were used for analyses on specific regions.
+### We had data from 10 regions including USA, Great Britain, Germany, Canada, France, Russia, Mexico, South Korea, Japan, and India. Most of the following analyses were conducted on an overall dataset representing the combination of all included regions. Individual datasets were used for analyses on specific regions.
 
 ## Features included in dataset:
 
