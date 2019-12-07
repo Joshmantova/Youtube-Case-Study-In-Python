@@ -63,7 +63,13 @@ description | Text
 ### We then grouped the data by each channel, rather than by video, and plotted the number of days it had been trending.
 
 ![](images/image5.png)
+
+### These last two graphs represent number of days trending grouped by channel title rather than by video.
+
 ![](images/image7.png)
+
+### Interestingly enough, there were five Indian channels that were in the top 10 trending channels for Canada.
+
 ![](images/image8.png)
 
 
