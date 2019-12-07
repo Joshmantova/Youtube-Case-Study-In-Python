@@ -51,11 +51,18 @@ description | Text
 
 ### Here, we see that 175,000 videos only trended for one day. There were videos that trended for more than 20 days and these videos recieved more likes and views because of this increased exposure.
 
-### These are the the top 10 trending videos for the US only.
+### These are the the top 10 trending videos for the US only. After grouping by video, number of days which the video had been trending for was calculated and plotted.
+### The top trending video can be viewed here if you're curious: https://www.youtube.com/watch?v=j4KvrAUjn6c
 
 ![](images/image1.png)
+
+### The following correlation matrix reveals that although likes and views are strongly correlated (r = 0.77), the correlation between the ratio of likes to views and the ratio of dislikes to views was only weakly correlated (r = 0.11).
+
 ![](images/image.png)
-![](images/image4.png)
+
+### 
+
+[//]: <> (![](images/image4.png))
 ![](images/image5.png)
 ![](images/image7.png)
 ![](images/image8.png)
