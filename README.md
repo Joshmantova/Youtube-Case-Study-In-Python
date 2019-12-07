@@ -60,9 +60,8 @@ description | Text
 
 ![](images/image.png)
 
-### 
+### We then grouped the data by each channel, rather than by video, and plotted the number of days it had been trending.
 
-[//]: <> (![](images/image4.png))
 ![](images/image5.png)
 ![](images/image7.png)
 ![](images/image8.png)
